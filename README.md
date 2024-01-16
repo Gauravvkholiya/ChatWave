@@ -1,5 +1,13 @@
 # ChatWave - Realtime Chat App
 
+![ChatWave Logo](images/chatwave.png)
+
+ChatWave is a full-stack, responsive chat application built with React, Node.js, Socket.IO, MongoDB, and Express. The application leverages the power of Socket.IO for real-time communication, allowing users to engage in seamless conversations.
+...
+
+
+# ChatWave - Realtime Chat App
+
 ChatWave is a full-stack, responsive chat application built with React, Node.js, Socket.IO, MongoDB, and Express. The application leverages the power of Socket.IO for real-time communication, allowing users to engage in seamless conversations.
 
 ## Features
@@ -25,3 +33,4 @@ Follow these steps to set up and run the ChatWave application locally:
 
 - Node.js installed on your machine
 - MongoDB installed and running
+- 
